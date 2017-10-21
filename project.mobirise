@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Members only.html",
+    "currentPage": "index.html",
     "name": "Lab beta",
     "theme": {
       "name": "mobirise3",
@@ -425,7 +425,7 @@
             }
           },
           "title": "Bio",
-          "text": "<br>Jodi L. Camberg, Ph.D.<br>Assistant Professor, The University of Rhode Island<br>cambergj@uri.edu<br><br><br>Ph.D., Biochemistry, The George Washington University (2004)<br>B.S., Biochemistry &amp; Molecular Biology, &nbsp;The Pennsylvania State University (2000)<br><br><br>College of the Environment and Life Sciences<br>Department of Cell and Molecular Biology<br>Department of Nutrition and Food Sciences<br>Ryan Instutute for Neuroscience<br><br><br>",
+          "text": "<br>Jodi L. Camberg, Ph.D.<br>Assistant Professor, The University of Rhode Island<br>cambergj@uri.edu<br><br><br>Ph.D., Biochemistry, The George Washington University (2004)<br>B.S., Biochemistry &amp; Molecular Biology, &nbsp;The Pennsylvania State University (2000)<br><br><br>College of the Environment and Life Sciences<br>Department of Cell and Molecular Biology<br>Department of Nutrition and Food Sciences<br>George &amp; Anne Ryan Instutute for Neuroscience<br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.ncbi.nlm.nih.gov/pubmed/?term=camberg+jl\" data-toolbar=\"-mbrBtnMove\">Link to Pubmed</a>"
         },
         {
