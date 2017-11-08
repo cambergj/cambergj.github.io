@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "news.html",
     "name": "Lab beta",
     "theme": {
       "name": "mobirise3",
@@ -629,7 +629,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p><b>2017</b></p><p><br></p><p>Marissa's Defending in November!</p><p>Welcome to the lab Cathy</p><p>BBM 2017 happened! Great talk Joe!</p><p>ASM Microbe 2017 in New Orleans!</p><p>Samina Akbar joins the lab as a summer research fellow</p><p>Congrats to our 2017 graduates - Melanie Keane</p><p><br></p><p>Recruiting graduate students!</p></blockquote>"
+          "text": "<blockquote><p><b>2017</b></p><p><br></p><p>Marissa's passed her dissertation defense! Congrats Dr. Viola!!</p><p>Welcome to the lab Cathy</p><p>BBM 2017 happened! Great talk Joe!</p><p>ASM Microbe 2017 in New Orleans!</p><p>Samina Akbar joins the lab as a summer research fellow</p><p>Congrats to our 2017 graduates - Melanie Keane</p><p><br></p><p>Recruiting graduate students!</p></blockquote>"
         }
       ]
     },
@@ -774,7 +774,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p>Marissa G. Viola - Ph.D. student</p></blockquote>"
+          "text": "<blockquote><p>Marissa G. Viola, Ph.D.</p></blockquote>"
         },
         {
           "_tags": [
@@ -852,7 +852,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>Undergrads</b> - We support research opportunities for undergraduate students! Here are the fantastic URI undergrads who are currently or have been through the Camberg lab!</p><p><br></p><p>Samina Akbar</p><p>Colby Ferreira</p><p>Kate Kellenberger</p><p>Meanie Keane</p><p>Arianna Jarocki</p><p>Bill Law</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Matt Baptista</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Anthony Velasquez</span><br></p><p>Marissa SanAntonio</p><p>Matt Tinkham</p><p>Ryann Murphy</p><p><br></p>"
+          "text": "<p><b>Undergrads</b> - We support research opportunities for undergraduate students! Here are the fantastic URI undergrads who are currently or have been through the Camberg lab!</p><p><br></p><p>Samina Akbar</p><p>Colby Ferreira</p><p>Kate Kellenberger</p><p>Melanie Keane</p><p>Arianna Jarocki</p><p>Bill Law</p><p>Erin Pelton</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Matt Baptista</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Anthony Velasquez</span><br></p><p>Marissa SanAntonio</p><p>Matt Tinkham</p><p>Chris O'Brien</p><p>Ryann Murphy</p><p>Gabriella Johnson</p><p><br></p>"
         }
       ]
     }
