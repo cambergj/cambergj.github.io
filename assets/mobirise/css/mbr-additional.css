@@ -418,6 +418,16 @@ h6,
 #msg-box8-d p {
   color: #fff;
 }
+#header3-1a .mbr-section-title,
+#header3-1a .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1a H3 {
+  text-align: right;
+}
+#header3-1a SMALL {
+  color: #2b0680;
+}
 #header1-1 .mbr-section-title {
   color: #000000;
   text-align: left;
