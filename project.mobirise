@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Members only.html",
     "name": "Lab beta",
     "theme": {
       "name": "mobirise3",
@@ -696,7 +696,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p><b>Jodi Camberg, Ph.D.</b></p><p>Assistant Professor</p><p>Department of Cell and Molecular Biology</p></blockquote>"
+          "text": "<blockquote><p><b>Jodi Camberg, Ph.D.</b></p><p>Associate Professor</p><p>Department of Cell and Molecular Biology</p></blockquote>"
         },
         {
           "_styles": {
