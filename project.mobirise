@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 47,
+    "uniqCompNum": 49,
     "versionPublish": "4.6.6",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -34,7 +34,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "index.html",
+        "title": "",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -451,7 +451,7 @@
             }
           },
           "title": "Bio",
-          "text": "<br>Jodi L. Camberg, Ph.D.<br>Assistant Professor, The University of Rhode Island<br>cambergj@uri.edu<br><br><br>Ph.D., Biochemistry, The George Washington University (2004)<br>B.S., Biochemistry &amp; Molecular Biology, &nbsp;The Pennsylvania State University (2000)<br><br><br>College of the Environment and Life Sciences<br>Department of Cell and Molecular Biology<br>Department of Nutrition and Food Sciences<br>George &amp; Anne Ryan Instutute for Neuroscience<br><br><br>",
+          "text": "<br>Jodi L. Camberg, Ph.D.<br>Associate Professor, The University of Rhode Island<br>cambergj@uri.edu<br><br><br>Ph.D., Biochemistry, The George Washington University (2004)<br>B.S., Biochemistry &amp; Molecular Biology, &nbsp;The Pennsylvania State University (2000)<br><br><br>College of the Environment and Life Sciences<br>Department of Cell and Molecular Biology<br>Department of Nutrition and Food Sciences<br>George &amp; Anne Ryan Instutute for Neuroscience<br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.ncbi.nlm.nih.gov/pubmed/?term=camberg+jl\" data-toolbar=\"-mbrBtnMove\">Link to Pubmed</a>"
         },
         {
@@ -502,7 +502,7 @@
     },
     "news.html": {
       "settings": {
-        "title": "news.html",
+        "title": "News",
         "meta_descr": "News list"
       },
       "components": [
@@ -661,7 +661,7 @@
     },
     "Members only.html": {
       "settings": {
-        "title": "Members only.html",
+        "title": "Web Builder Title",
         "meta_descr": "Web Builder Description"
       },
       "components": [
@@ -800,7 +800,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p>Joe Conti - Ph.D. student</p></blockquote>"
+          "text": "<blockquote><p>Joe Conti - Ph.D. candidate</p></blockquote>"
         },
         {
           "_tags": [
@@ -813,7 +813,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote>Chris LaBreck - Ph.D. student</blockquote>"
+          "text": "<blockquote>Chris LaBreck - Ph.D. candidate</blockquote>"
         },
         {
           "_tags": [
@@ -865,7 +865,33 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote>Evelyn Siler - incoming graduate student</blockquote>"
+          "text": "<blockquote>Evelyn Siler - grad student Fall 2018</blockquote>"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>Josiah Morrison - grad student Fall 2018</blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-1b"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>Negar Rahmani</blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-1c"
         },
         {
           "_tags": [
@@ -878,7 +904,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>Lab Alumni</b></p><p>Marissa G. Viola, Ph.D., currently at Orthogon</p><p><b><br></b></p><p><b><br></b></p><p><b>Undergrads</b> - We support research opportunities for undergraduate students! Here are the fantastic URI undergrads who are currently or have been through the Camberg lab!</p><p><br></p><p>Samina Akbar</p><p>Colby Ferreira</p><p>Kate Kellenberger</p><p>Melanie Keane</p><p>Arianna Jarocki</p><p>Bill Law</p><p>Erin Pelton</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Matt Baptista</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Anthony Velasquez</span><br></p><p>Marissa SanAntonio</p><p>Matt Tinkham</p><p>Chris O'Brien</p><p>Ryann Murphy</p><p>Gabriella Johnson</p><p><br></p>"
+          "text": "<p><b>Lab Alumni</b></p><p>Marissa G. Viola, Ph.D., currently at Orthogon</p><p><b><br></b></p><p><b><br></b></p><p><b>Undergrads</b> - We support research opportunities for undergraduate students! Here are the fantastic URI undergrads who are currently or have been through the Camberg lab!</p><p><br></p><p>Ben Piraino</p><p>Rebecca Dickinson</p><p>Samina Akbar</p><p>Colby Ferreira</p><p>Kate Kellenberger</p><p>Melanie Keane</p><p>Arianna Jarocki</p><p>Bill Law</p><p>Erin Pelton</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Matt Baptista</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Anthony Velasquez</span><br></p><p>Marissa SanAntonio</p><p>Matt Tinkham</p><p>Chris O'Brien</p><p>Ryann Murphy</p><p>Gabriella Johnson</p><p><br></p>"
         }
       ]
     }
