@@ -105,7 +105,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<span style=\"font-weight: normal;\">Congrats to Joe and Shannon!</span><br><span style=\"font-weight: normal;\">Check out the </span><i style=\"font-weight: normal;\">Staphylococcus aureus</i><span style=\"font-weight: normal;\"> cell division paper just out in </span><i style=\"font-weight: normal;\">eLife</i>",
+          "title": "<span style=\"font-weight: normal;\">Congrats to Joe and Shannon!</span><br><span style=\"font-weight: normal;\">Check out the <i>Staphylococcus aureus </i>paper just out in <i>eLife</i>!</span>",
           "meta": ""
         },
         {
