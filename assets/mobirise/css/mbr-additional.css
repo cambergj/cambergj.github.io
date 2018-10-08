@@ -428,6 +428,12 @@ h6,
 #header3-1a SMALL {
   color: #2b0680;
 }
+#header3-1a .mbr-section-title SPAN {
+  font-size: 16px;
+}
+#header3-1a .mbr-section-title I {
+  font-size: 16px;
+}
 #header1-1 .mbr-section-title {
   color: #000000;
   text-align: left;

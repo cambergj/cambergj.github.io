@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Members only.html",
+    "currentPage": "index.html",
     "name": "Lab beta",
     "theme": {
       "name": "mobirise3",
@@ -19,7 +19,8 @@
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false,
         "isRtl": false
-      }
+      },
+      "additionalSetColors": []
     },
     "versionFirst": "3.10.7",
     "uniqCompNum": 49,
@@ -85,6 +86,12 @@
             },
             "SMALL": {
               "color": "#2b0680"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "16px"
+            },
+            ".mbr-section-title I": {
+              "font-size": "16px"
             }
           },
           "_tags": [
@@ -98,7 +105,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "...",
+          "title": "<span style=\"font-weight: normal;\">Congrats to Joe and Shannon!</span><br><span style=\"font-weight: normal;\">Check out the </span><i style=\"font-weight: normal;\">Staphylococcus aureus</i><span style=\"font-weight: normal;\"> cell division paper just out in </span><i style=\"font-weight: normal;\">eLife</i>",
           "meta": ""
         },
         {
@@ -655,7 +662,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p><b><br></b></p><p><b>2018</b></p><p><br></p><p>Welcome two new graduate students to the lab, Evelyn and Josiah</p><p>Marissa got a job! Congrats &amp; good luck!</p><p><br></p><p><b>2017</b></p><p><br></p><p>The FtsA paper is out in Mol Micro! Congrats Joe!&nbsp;</p><p>Shannon is heading to Society for Neuroscience Meeting</p><p>Marissa passed her dissertation defense! Congrats Dr. Viola!!</p><p>Welcome to the lab Cathy</p><p>BBM 2017 happened! Great talk Joe!</p><p>ASM Microbe 2017 in New Orleans!</p><p>Samina Akbar joins the lab as a summer research fellow</p><p>Congrats to our 2017 graduates - Melanie Keane</p><p><br></p><p>Recruiting graduate students!</p></blockquote>"
+          "text": "<blockquote><p><b><br></b></p><p><b>2018</b></p><p><br></p><p>Congrats to Joe and Shannon on their defenses!</p><p>Welcome new graduate students to the lab, Evelyn, Josiah and Negar</p><p>Marissa got a job! Congrats &amp; good luck!</p><p><br></p><p><b>2017</b></p><p><br></p><p>The FtsA paper is out in Mol Micro! Congrats Joe!&nbsp;</p><p>Shannon is heading to Society for Neuroscience Meeting</p><p>Marissa passed her dissertation defense! Congrats Dr. Viola!!</p><p>Welcome to the lab Cathy</p><p>BBM 2017 happened! Great talk Joe!</p><p>ASM Microbe 2017 in New Orleans!</p><p>Samina Akbar joins the lab as a summer research fellow</p><p>Congrats to our 2017 graduates - Melanie Keane</p><p><br></p><p>Recruiting graduate students!</p></blockquote>"
         }
       ]
     },
@@ -800,7 +807,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p>Joe Conti - Ph.D. candidate</p></blockquote>"
+          "text": "<blockquote><p>Joe Conti, Ph.D.&nbsp;</p></blockquote>"
         },
         {
           "_tags": [
@@ -814,19 +821,6 @@
             "bgColor": "#fff"
           },
           "text": "<blockquote>Chris LaBreck - Ph.D. candidate</blockquote>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_anchor": "content2-13",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<blockquote>Shannon May - Ph.D. candidate</blockquote>"
         },
         {
           "_tags": [
@@ -865,7 +859,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote>Evelyn Siler - grad student Fall 2018</blockquote>"
+          "text": "<blockquote>Evelyn Siler - Graduate student</blockquote>"
         },
         {
           "_params": {
@@ -873,7 +867,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote>Josiah Morrison - grad student Fall 2018</blockquote>",
+          "text": "<blockquote>Josiah Morrison - Graduate student</blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -886,7 +880,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote>Negar Rahmani</blockquote>",
+          "text": "<blockquote>Negar Rahmani - Graduate Student</blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -904,7 +898,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>Lab Alumni</b></p><p>Marissa G. Viola, Ph.D., currently at Orthogon</p><p><b><br></b></p><p><b><br></b></p><p><b>Undergrads</b> - We support research opportunities for undergraduate students! Here are the fantastic URI undergrads who are currently or have been through the Camberg lab!</p><p><br></p><p>Ben Piraino</p><p>Rebecca Dickinson</p><p>Samina Akbar</p><p>Colby Ferreira</p><p>Kate Kellenberger</p><p>Melanie Keane</p><p>Arianna Jarocki</p><p>Bill Law</p><p>Erin Pelton</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Matt Baptista</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Anthony Velasquez</span><br></p><p>Marissa SanAntonio</p><p>Matt Tinkham</p><p>Chris O'Brien</p><p>Ryann Murphy</p><p>Gabriella Johnson</p><p><br></p>"
+          "text": "<p><b>Lab Alumni</b></p><p>Marissa G. Viola, Ph.D., currently at Orthogon</p><p>Shannon May, Ph.D., currently at UConn</p><p><b><br></b></p><p><b><br></b></p><p><b>Undergrads</b> - We support research opportunities for undergraduate students! Here are the fantastic URI undergrads who are currently or have been through the Camberg lab!</p><p><br></p><p>Ben Piraino</p><p>Rebecca Dickinson</p><p>Samina Akbar</p><p>Colby Ferreira</p><p>Kate Kellenberger</p><p>Melanie Keane</p><p>Arianna Jarocki</p><p>Bill Law</p><p>Erin Pelton</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Matt Baptista</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Anthony Velasquez</span><br></p><p>Marissa SanAntonio</p><p>Matt Tinkham</p><p>Chris O'Brien</p><p>Ryann Murphy</p><p>Gabriella Johnson</p><p><br></p>"
         }
       ]
     }
