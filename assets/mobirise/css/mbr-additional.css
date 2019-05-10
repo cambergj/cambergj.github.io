@@ -581,6 +581,12 @@ h6,
 #msg-box8-1e p {
   color: #fff;
 }
+#msg-box8-1e .lead P {
+  color: #000000;
+}
+#msg-box8-1e .mbr-section-title {
+  color: #000000;
+}
 #menu-k .hide-buttons .nav-btn {
   display: none !important;
 }

@@ -647,6 +647,12 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".lead P": {
+              "color": "#000000"
+            },
+            ".mbr-section-title": {
+              "color": "#000000"
             }
           },
           "_params": {
@@ -669,7 +675,7 @@
             "overlayOpacity": "0.1"
           },
           "title": "PEOPLE",
-          "text": "<p>Current Lab Members and Alumni</p>",
+          "text": "<p><b>Current Lab Members &amp; Alumni</b></p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -688,7 +694,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p><b>Jodi Camberg, Ph.D.</b></p><p>Associate Professor</p><p>Department of Cell and Molecular Biology</p></blockquote>"
+          "text": "<blockquote><p><b style=\"font-size: 1.07rem;\">Jodi Camberg, Ph.D.</b><br></p><p>Associate Professor</p><p>Department of Cell and Molecular Biology</p></blockquote>"
         },
         {
           "_styles": {
