@@ -19,7 +19,10 @@
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false,
         "isRtl": false
-      }
+      },
+      "additionalSetColors": [
+        "#222222"
+      ]
     },
     "versionFirst": "3.10.7",
     "uniqCompNum": 51,
@@ -662,8 +665,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayColor": "#222222",
+            "overlayOpacity": "0.1"
           },
           "title": "PEOPLE",
           "text": "<p>Current Lab Members and Alumni</p>",
