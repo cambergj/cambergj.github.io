@@ -577,9 +577,9 @@ h6,
 #msg-box8-y p {
   color: #fff;
 }
-#header3-w .mbr-section-title,
-#header3-w .mbr-section-subtitle {
-  text-align: center;
+#msg-box8-1e .mbr-section-title,
+#msg-box8-1e p {
+  color: #fff;
 }
 #menu-k .hide-buttons .nav-btn {
   display: none !important;
