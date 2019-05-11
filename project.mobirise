@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Members only.html",
+    "currentPage": "news.html",
     "name": "Lab 2019",
     "theme": {
       "name": "mobirise3",
@@ -576,19 +576,6 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://web.uri.edu/cmb/jodi-l-camberg/\" target=\"_blank\">Link to URI Faculty Web Page</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Members only.html\" target=\"_blank\">Lab Members</a></li>"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_anchor": "content2-x",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<blockquote><p>BBM 2017 happened! Great talk on FtsA Joe!</p><p>Camberg alum graduates 2017: Melanie Keane Congrats!</p></blockquote>"
-        },
-        {
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
@@ -633,7 +620,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p><b><br></b></p><p><b>2019</b></p><p><b><br></b></p><p><b>The Annual Kentucky Derby Party - don't miss this one!</b></p><p><b>Getting ready for BBM and Phages this summer!</b></p><p><b>Always recruiting grad students!</b></p><p><b><br></b></p><p><b>2018</b></p><p><br></p><p>Congratulations to 3 new Ph.D.'s - Joe, Shannon and Chris!</p><p>Welcome new graduate students to the lab, Evelyn, Josiah and Negar</p><p>Marissa got a job! Congrats &amp; good luck!</p><p><br></p><p><b>2017</b></p><p><br></p><p>The FtsA paper is out in Mol Micro! Congrats Joe!&nbsp;</p><p>Shannon is heading to Society for Neuroscience Meeting</p><p>Marissa passed her dissertation defense! Congrats Dr. Viola!!</p><p>Welcome to the lab Cathy</p><p>BBM 2017 happened! Great talk Joe!</p><p>ASM Microbe 2017 in New Orleans!</p><p>Samina Akbar joins the lab as a summer research fellow</p><p>Congrats to our 2017 graduates - Melanie Keane</p><p><br></p><p>Recruiting graduate students!</p></blockquote>"
+          "text": "<blockquote><p><b><br></b></p><p><b>2019</b></p><p><b><br></b></p><p><span style=\"font-style: normal;\">The Annual Kentucky Derby Party - don't miss this one!</span></p><p><span style=\"font-style: normal;\">Getting ready for BBM and Phages this summer!</span></p><p><span style=\"font-style: normal;\"><b>Always recruiting grad students!</b></span></p><p><b><br></b></p><p><b>2018</b></p><p><br></p><p><span style=\"font-style: normal;\">Congratulations to 3 new Ph.D.'s - Joe, Shannon and Chris!</span></p><p><span style=\"font-style: normal;\">Welcome new graduate students to the lab, Evelyn, Josiah and Negar</span></p><p><span style=\"font-style: normal;\">Marissa got a job! Congrats &amp; good luck!</span></p><p><br></p><p><b>2017</b></p><p><br></p><p><span style=\"font-style: normal;\">The FtsA paper is out in Mol Micro! Congrats Joe!&nbsp;</span></p><p><span style=\"font-style: normal;\">Shannon is heading to Society for Neuroscience Meeting</span></p><p><span style=\"font-style: normal;\">Marissa passed her dissertation defense! Congrats Dr. Viola!!</span></p><p><span style=\"font-style: normal;\">Welcome to the lab Cathy</span></p><p><span style=\"font-style: normal;\">BBM 2017 happened! Great talk Joe!</span></p><p><span style=\"font-style: normal;\">ASM Microbe 2017 in New Orleans!</span></p><p><span style=\"font-style: normal;\">Samina Akbar joins the lab as a summer research fellow</span></p><p><span style=\"font-style: normal;\">Congrats to our 2017 graduates&nbsp;</span></p><p><br></p><p>Recruiting graduate students!</p></blockquote>"
         }
       ]
     },
