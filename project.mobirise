@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Members only.html",
     "name": "Lab 2019",
     "theme": {
       "name": "mobirise3",
@@ -25,7 +25,7 @@
       ]
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 51,
+    "uniqCompNum": 52,
     "versionPublish": "4.9.1",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -684,6 +684,19 @@
           "text": "<blockquote><p><b style=\"font-size: 1.07rem;\">Jodi Camberg, Ph.D.</b><br></p><p>Associate Professor</p><p>Department of Cell and Molecular Biology</p></blockquote>"
         },
         {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><span style=\"font-size: 1.09rem;\">Chris LaBreck, Ph.D.</span><br></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-1f"
+        },
+        {
           "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
@@ -850,7 +863,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>Lab Alumni</b></p><p>Marissa G. Viola, Ph.D., currently at Revitope</p><p>Joseph Conti, Ph.D., currently at UPenn</p><p>Shannon May, Ph.D., currently at UConn</p><p>Chris LaBreck, Ph.D., currently at HelixBind</p><p><br></p><p><b>Undergrads</b> - We support research opportunities for undergraduate students! Here are the fantastic URI undergrads and research fellows who are currently or have been through the Camberg lab!</p><p><br></p><p>Connie Nino</p><p>Loran Gligord</p><p>Katie Nelson</p><p>Can Yavas</p><p>Kelly Rothenberger</p><p>Ben Piraino</p><p>Ashley Rigano</p><p>Rebecca Dickinson</p><p>Samina Akbar</p><p>Colby Ferreira</p><p>Kate Kellenberger</p><p>Melanie Keane</p><p>Arianna Jarocki</p><p>Bill Law</p><p>Erin Pelton</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Matt Baptista</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Anthony Velasquez</span><br></p><p>Marissa SanAntonio</p><p>Matt Tinkham</p><p>Chris O'Brien</p><p>Ryann Murphy</p><p>Gabriella Johnson</p><p><br></p>"
+          "text": "<p><b>Lab Alumni</b></p><p>Marissa G. Viola, Ph.D., currently at Revitope</p><p>Joseph Conti, Ph.D., currently at UPenn</p><p>Shannon May, Ph.D., currently at UConn</p><p><br></p><p><br></p><p><b>Undergrads</b> - We support research opportunities for undergraduate students! Here are the fantastic URI undergrads and research fellows who are currently or have been through the Camberg lab!</p><p><br></p><p>Connie Nino</p><p>Loran Gliford</p><p>Katie Nelson</p><p>Can Yavas</p><p>Kelly Rothenberger</p><p>Ben Piraino</p><p>Ashley Rigano</p><p>Rebecca Dickinson</p><p>Samina Akbar</p><p>Colby Ferreira</p><p>Kate Kellenberger</p><p>Melanie Keane</p><p>Arianna Jarocki</p><p>Bill Law</p><p>Erin Pelton</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Matt Baptista</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Anthony Velasquez</span><br></p><p>Marissa SanAntonio</p><p>Matt Tinkham</p><p>Chris O'Brien</p><p>Ryann Murphy</p><p>Gabriella Johnson</p><p><br></p>"
         }
       ]
     }
