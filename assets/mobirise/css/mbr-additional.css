@@ -506,6 +506,10 @@ h6,
   color: #cccccc;
   font-size: 32px;
 }
+#social-buttons3-1j .mbr-section-title,
+#social-buttons3-1j .btn-social {
+  color: #fff;
+}
 #menu-j .hide-buttons .nav-btn {
   display: none !important;
 }

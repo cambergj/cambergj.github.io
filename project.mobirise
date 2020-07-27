@@ -21,11 +21,12 @@
         "isRtl": false
       },
       "additionalSetColors": [
-        "#222222"
+        "#222222",
+        "#232323"
       ]
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 54,
+    "uniqCompNum": 59,
     "versionPublish": "4.9.1",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -433,6 +434,36 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.ncbi.nlm.nih.gov/pubmed/?term=camberg+jl\" data-toolbar=\"-mbrBtnMove\">Link to Pubmed</a>"
         },
         {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Also check out our latest pre-prints on BioRxiv",
+          "text": "&nbsp;&nbsp;",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Search BioRxiv</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-1m"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -475,6 +506,57 @@
           },
           "title": "Contact Jodi at cambergj@uri.edu",
           "meta": ""
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "text": "SHARE THIS PAGE!",
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-1j"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2016 Mobirise.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1k"
         }
       ]
     },
