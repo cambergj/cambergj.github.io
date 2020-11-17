@@ -1,8 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-
 
 
 
@@ -417,15 +415,6 @@ h6,
 #msg-box8-d .mbr-section-title,
 #msg-box8-d p {
   color: #fff;
-}
-#header1-1 .mbr-section-title {
-  color: #000000;
-  text-align: left;
-}
-#header1-1 .mbr-section-lead {
-  color: #000000;
-  font-family: 'Noto Sans', sans-serif;
-  font-size: 22px;
 }
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;

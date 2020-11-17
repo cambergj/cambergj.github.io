@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 61,
+    "uniqCompNum": 67,
     "versionPublish": "4.9.1",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -153,7 +153,7 @@
             }
           },
           "title3": "Protein Aggregation, Remodeling and Clearance",
-          "subtitle3": "Disassembly, reactivation and homeostasis",
+          "subtitle3": "Protein homeostasis in <br>differentiated neurons, yeast and bacteria",
           "caption3": "<b style=\"font-size: 1rem; line-height: 1.5;\">Chaperones and proteolysis</b><br><br>Molecular chaperone proteins maintain intracellular protein homeostasis in all living organisms. When these homeostatic mechanisms are disrupted, cells are less able to cope with environmental stress and maintain normal physiology and function. We study how proteins misfold and aggregate and how molecular chaperones promote reactivation from aggregates and partner with proteases for degradation in vivo and in vitro. <br>~~~~~<br>Protein homeostasis in bacteria, yeast &amp; differentiated neurons.<br>Key cellular events under investigation in multiple organisms that are proteolytically regulated include cell division,  dormancy, inheritance and clearance of amyloids and other aggregates.<br><br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
@@ -196,45 +196,6 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_name": "header1",
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#000000",
-              "text-align": "left"
-            },
-            ".mbr-section-lead": {
-              "color": "#000000",
-              "font-family": "'Noto Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
-              "font-size": "22px"
-            }
-          },
-          "_anchor": "header1-1",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": false,
-            "contentAlign": "left",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/lab-photo-june-2017b-2000x1205.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#a07e49",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#efefef",
-            "overlayOpacity": "0.5"
-          },
-          "title": "Camberg Lab",
-          "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://web.uri.edu/cmb/jodi-l-camberg/\" data-toolbar=\"-mbrBtnMove\">@ the University of Rhode Island</a> "
         },
         {
           "_tags": [
@@ -432,6 +393,58 @@
           "title": "Bio",
           "text": "<br>Jodi L. Camberg, Ph.D.<br>Associate Professor, The University of Rhode Island<br>cambergj@uri.edu<br><br><br>Ph.D., Biochemistry, The George Washington University (2004)<br>B.S., Biochemistry &amp; Molecular Biology, &nbsp;The Pennsylvania State University (2000)<br><br><br>College of the Environment and Life Sciences<br>Department of Cell and Molecular Biology<br>Department of Nutrition and Food Sciences<br>George &amp; Anne Ryan Instutute for Neuroscience<br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.ncbi.nlm.nih.gov/pubmed/?term=camberg+jl\" data-toolbar=\"-mbrBtnMove\">Link to Pubmed</a>"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/screen-capture-lab-438x283.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Camberg Lab<br>@ URI",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Members only.html\" data-toolbar=\"-mbrBtnMove\">Lab Members</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-1u"
         },
         {
           "_tags": [
@@ -775,7 +788,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote>Eric DiBiasio - Ph.D. student</blockquote>"
+          "text": "<blockquote>Eric DiBiasio - Ph.D. candidate</blockquote>"
         },
         {
           "_tags": [
@@ -944,7 +957,47 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b><br></b></p><p><b><br></b></p><p><b>Lab Alumni</b></p><p>Marissa G. Viola, Ph.D.</p><p>Joseph Conti, Ph.D.</p><p>Shannon May, Ph.D.</p><p>Chris LaBreck, Ph.D.</p><p><br></p><p><br></p><p><b>Undergrads</b> - We support research opportunities for undergraduate students! Here are the fantastic URI undergrads and research fellows who are currently or have been through the Camberg lab!</p><p><br></p><p><br></p><p>Rebecca Dickinson</p><p>Katie Nelson</p><p>Loran Gliford</p><p>Kelly Rothenberger</p><p>Ben Piraino</p><p>Ashley Rigano</p><p>Connie Nino</p><p>Samina Akbar</p><p>Colby Ferreira</p><p>Kate Kellenberger</p><p>Can Yavas</p><p>Melanie Keane</p><p>Arianna Jarocki</p><p>Bill Law</p><p>Erin Pelton</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Matt Baptista</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Anthony Velasquez</span><br></p><p>Marissa SanAntonio</p><p>Matt Tinkham</p><p>Chris O'Brien</p><p>Ryann Murphy</p><p>Gabriella Johnson</p><p><br></p>"
+          "text": "<p><b><br></b></p><p><b><br></b></p><p><b>Lab Alumni</b></p><p>Marissa G. Viola, Ph.D.</p><p>Joseph Conti, Ph.D.</p><p>Shannon May, Ph.D.</p><p>Chris LaBreck, Ph.D.</p>"
+        },
+        {
+          "_params": {
+            "showText": true,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/lab-photo-june-2017b-2000x1205.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-1p"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Undergrads </b>- We support research opportunities for undergraduate students! Here are the fantastic URI undergrads and research fellows who are currently or have been through the Camberg lab!</p><p><br></p><p><br></p><p>Rebecca Dickinson</p><p>Katie Nelson</p><p>Loran Gliford</p><p>Kelly Rothenberger</p><p>Ben Piraino</p><p>Ashley Rigano</p><p>Connie Nino</p><p>Samina Akbar</p><p>Colby Ferreira</p><p>Kate Kellenberger</p><p>Can Yavas</p><p>Melanie Keane</p><p>Arianna Jarocki</p><p>Bill Law</p><p>Erin Pelton</p><p>Matt Baptista</p><p>Anthony Velasquez</p><p>Marissa SanAntonio</p><p>Matt Tinkham</p><p>Chris O'Brien</p><p>Ryann Murphy</p><p>Gabriella Johnson</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1q"
         }
       ]
     }
