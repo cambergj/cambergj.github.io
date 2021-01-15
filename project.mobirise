@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Members only.html",
     "name": "Lab 2019",
     "theme": {
       "name": "mobirise3",
@@ -22,11 +22,12 @@
       },
       "additionalSetColors": [
         "#222222",
-        "#232323"
+        "#232323",
+        "#092d54"
       ]
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 67,
+    "uniqCompNum": 69,
     "versionPublish": "4.9.1",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -63,11 +64,11 @@
             "showButton": false,
             "paddingTop": "5",
             "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/em-cell-2000x573.jpg",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/em%20cell-2000x573.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgColor": "#092d54",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -76,9 +77,66 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Camberg Lab @ URI",
-          "text": "<p><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ~ Microbial Cell Physiology &amp; Mechanics ~ </b></p><p><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;~ Molecular Machines ~ </b></p><p><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;~ Protein Remodeling, Aggregates, Amyloids &amp; Homeostasis~</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p><p><br></p>",
+          "title": "<br>Camberg Lab @ URI",
+          "text": "<p><b>&nbsp; &nbsp; &nbsp; ~ Microbial Cell Physiology &amp; Mechanics ~ </b></p><p><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;~ Molecular Machines ~ </b></p><p><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;~ Protein Remodeling, Aggregates, Amyloids &amp; Homeostasis~</b>&nbsp;&nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/paired-filament-563x434.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "NEW: Cytomotive filaments in the divisome",
+          "text": "Coassembly of FtsA and FtsZ polymers......&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">New pre-publication in bioRxiv<br></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-1v",
+          "_styles": {
+            "H3": {
+              "font-size": "30px"
+            }
+          }
         },
         {
           "_tags": [
@@ -122,7 +180,7 @@
           },
           "title1": "Microbial Cell Physiology",
           "subtitle1": "Cell Division &amp; Developmental Growth Programs",
-          "caption1": "<b style=\"font-size: 1rem; line-height: 1.5;\">Mechanisms of cell division</b><br><br>&nbsp;The highly conserved bacterial cell division protein FtsZ polymerizes to form a dynamic protein structure called the “Z-ring” at midcell. At the Z-ring, the center of an <i>E. coli </i>cell \"constricts\" to divide into two identical daughter cells and FtsZ has been widely suggested to provide the force for constriction. Using in vivo and in vitro assays, we are investigating proteins that recruit, stabilize and destabilize the Z-ring as well as systems responsible for precise timing and placement of the Z-ring in vivo. We recently found that <i>E. coli</i> FtsA can induce changes in the shape of cell membrane at the location of the FtsZ interaction!!!<br><br><b>Quiescence in Bacteria is Regulated by Peptidoglycan Cues</b><br><br>Uropathogenic <i>E. coli</i>&nbsp;is responsible for the majority of urinary tract infections. We are currently investigating how this organism enters a quiescent, non-proliferative state, which may allow it to evade killing by antibiotics or the immune system during infection. Our work is focused on the characterization of several external signals that stimulate proliferation of <i>E. coli </i>form the quiescent state.<br><br>",
+          "caption1": "<b style=\"font-size: 1rem; line-height: 1.5;\">Mechanism of cell division</b><br><br>&nbsp;The highly conserved bacterial cell division protein FtsZ polymerizes to form a dynamic protein structure called the “Z-ring” at midcell. At the Z-ring, the center of an <i>E. coli </i>cell \"constricts\" to divide into two identical daughter cells and FtsZ has been widely suggested to provide the force for constriction. Using in vivo and in vitro assays, we investigate proteins that recruit, stabilize and destabilize the Z-ring, as well as systems responsible for precise timing and placement of the Z-ring in vivo. The actin-like ATPase FtsA polymerizes, coassembling with FtsZ polymers, and together they form they nascent Z-ring at the site of division.<br><br><b>Quiescence in Bacteria is Regulated by Peptidoglycan Cues</b><br><br>Uropathogenic <i>E. coli</i>&nbsp;is responsible for the majority of urinary tract infections. We investigate how this organism enters a QUIESCENT, non-proliferative and antibiotic-tolerant state, which may allow it to evade killing by antibiotics or the immune system during infection. Our work is focused on understanding how external signals, including peptidoglycan, stimulate proliferation of <i>E. coli </i>from the quiescent state.<br><br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
@@ -138,7 +196,7 @@
           },
           "title2": "Molecular Machines",
           "subtitle2": "Performing mechanical work at the nanometer scale<br>",
-          "caption2": "<b>Reconstituting cell machinery</b><br><br>Molecular pathways are often highly complex with specific mechanisms being governed by multiple protein-protein interactions and protein-lipid interactions, and further regulated by enzymatic activities such as ATP or GTP hydrolysis. We take a reductionist approach and sequentially investigate each biochemical event in vitro. With an ever-expanding library of purified proteins and lipids we employ a combination of classical biochemical, biophysical and high resolution microscopic techniques to investigate specific molecular events. Recently, we have been investigating the polar oscillation of the Min system, direct interactions between FtsZ, FtsA and the lipid bilayer, and multivalent targeting and degradation of FtsZ by the ClpXP AAA+ protease.",
+          "caption2": "<b>Reconstituting cell machinery</b><br><br>Molecular pathways are often highly complex with specific mechanisms being governed by multiple protein-protein interactions and protein-lipid interactions, and further regulated by enzymatic activities such as ATP or GTP hydrolysis. We take a reductionist approach and sequentially investigate each biochemical event in vitro. With an ever-expanding library of purified proteins and lipids we employ a combination of classical biochemical, biophysical and high resolution microscopic techniques to investigate specific molecular events. Recently, we have been investigating the polar oscillation of the Min system, direct interactions between FtsZ, FtsA and the lipid bilayer, and targeting and degradation of antitoxins and cell division proteins by the AAA+ proteases ClpXP and Lon.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
@@ -152,7 +210,7 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "Protein Aggregation, Remodeling and Clearance",
+          "title3": "Amyloids and Aggregates:<br>Remodeling and Clearance",
           "subtitle3": "Protein homeostasis in <br>differentiated neurons, yeast and bacteria",
           "caption3": "<b style=\"font-size: 1rem; line-height: 1.5;\">Chaperones and proteolysis</b><br><br>Molecular chaperone proteins maintain intracellular protein homeostasis in all living organisms. When these homeostatic mechanisms are disrupted, cells are less able to cope with environmental stress and maintain normal physiology and function. We study how proteins misfold and aggregate and how molecular chaperones promote reactivation from aggregates and partner with proteases for degradation in vivo and in vitro. <br>~~~~~<br>Protein homeostasis in bacteria, yeast &amp; differentiated neurons.<br>Key cellular events under investigation in multiple organisms that are proteolytically regulated include cell division,  dormancy, inheritance and clearance of amyloids and other aggregates.<br><br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -195,7 +253,12 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_tags": [
