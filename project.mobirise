@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Members only.html",
+    "currentPage": "index.html",
     "name": "Lab 2019",
     "theme": {
       "name": "mobirise3",
@@ -126,7 +126,7 @@
           },
           "title": "NEW: Cytomotive filaments in the divisome",
           "text": "Coassembly of FtsA and FtsZ polymers......&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">New pre-publication in bioRxiv<br></a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://www.biorxiv.org/content/10.1101/2021.01.12.426377v1\" data-toolbar=\"-mbrBtnMove\">New pre-publication in bioRxiv<br></a>",
           "_tags": [
             "Theme"
           ],
