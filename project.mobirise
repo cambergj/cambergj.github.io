@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 69,
+    "uniqCompNum": 72,
     "versionPublish": "4.9.1",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -49,37 +49,53 @@
       "components": [
         {
           "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
             }
           },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "&nbsp;&nbsp;",
+          "meta": "&nbsp;&nbsp;",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-d",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
-            "paddingTop": "5",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/em%20cell-2000x573.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#092d54",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+          "_name": "header3",
+          "_anchor": "header3-1z"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
             },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            ".mbr-section-subtitle": {
+              "color": "#475577"
+            },
+            ".mbr-section-title": {
+              "color": "#092d54"
+            },
+            ".mbr-section-subtitle SPAN": {
+              "font-family": "'Noto Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700"
+            }
           },
-          "title": "<br>Camberg Lab @ URI",
-          "text": "<p><b>&nbsp; &nbsp; &nbsp; ~ Microbial Cell Physiology &amp; Mechanics ~ </b></p><p><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;~ Molecular Machines ~ </b></p><p><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;~ Protein Remodeling, Aggregates, Amyloids &amp; Homeostasis~</b>&nbsp;&nbsp;</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Camberg Lab @ URI",
+          "meta": "<br><br><span style=\"font-style: normal;\"><b>Microbial Cell Physiology &amp; Mechanics<br>Molecular Machines&nbsp;<br>Amyloids, Aggregates &amp; Protein Homeostasis</b><br></span><br><br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1y"
         },
         {
           "_params": {
@@ -87,7 +103,7 @@
             "showText": true,
             "showButtons": true,
             "inverse": false,
-            "imageSize": 50,
+            "imageSize": "33",
             "paddingTop": 0,
             "paddingBottom": 0,
             "bgImageRadio": false,
@@ -134,7 +150,13 @@
           "_anchor": "msg-box5-1v",
           "_styles": {
             "H3": {
-              "font-size": "30px"
+              "font-size": "24px",
+              "color": "#092d54"
+            },
+            "P": {
+              "font-size": "14px",
+              "font-family": "'Noto Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700"
             }
           }
         },
@@ -150,7 +172,7 @@
             "showSubtitles": true,
             "ShowTexts": true,
             "showButtons": false,
-            "paddingTop": 2,
+            "paddingTop": "2",
             "paddingBottom": 2,
             "columns": "3",
             "bgImageRadio": false,
@@ -179,7 +201,7 @@
             }
           },
           "title1": "Microbial Cell Physiology",
-          "subtitle1": "Cell Division &amp; Developmental Growth Programs",
+          "subtitle1": "<span style=\"font-style: normal;\">Cell Division &amp; Developmental Growth Programs</span>",
           "caption1": "<b style=\"font-size: 1rem; line-height: 1.5;\">Mechanism of cell division</b><br><br>&nbsp;The highly conserved bacterial cell division protein FtsZ polymerizes to form a dynamic protein structure called the “Z-ring” at midcell. At the Z-ring, the center of an <i>E. coli </i>cell \"constricts\" to divide into two identical daughter cells and FtsZ has been widely suggested to provide the force for constriction. Using in vivo and in vitro assays, we investigate proteins that recruit, stabilize and destabilize the Z-ring, as well as systems responsible for precise timing and placement of the Z-ring in vivo. The actin-like ATPase FtsA polymerizes, coassembling with FtsZ polymers, and together they form they nascent Z-ring at the site of division.<br><br><b>Quiescence in Bacteria is Regulated by Peptidoglycan Cues</b><br><br>Uropathogenic <i>E. coli</i>&nbsp;is responsible for the majority of urinary tract infections. We investigate how this organism enters a QUIESCENT, non-proliferative and antibiotic-tolerant state, which may allow it to evade killing by antibiotics or the immune system during infection. Our work is focused on understanding how external signals, including peptidoglycan, stimulate proliferation of <i>E. coli </i>from the quiescent state.<br><br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
@@ -195,7 +217,7 @@
             }
           },
           "title2": "Molecular Machines",
-          "subtitle2": "Performing mechanical work at the nanometer scale<br>",
+          "subtitle2": "<span style=\"font-style: normal;\">Performing mechanical work at the nanometer scale</span><br>",
           "caption2": "<b>Reconstituting cell machinery</b><br><br>Molecular pathways are often highly complex with specific mechanisms being governed by multiple protein-protein interactions and protein-lipid interactions, and further regulated by enzymatic activities such as ATP or GTP hydrolysis. We take a reductionist approach and sequentially investigate each biochemical event in vitro. With an ever-expanding library of purified proteins and lipids we employ a combination of classical biochemical, biophysical and high resolution microscopic techniques to investigate specific molecular events. Recently, we have been investigating the polar oscillation of the Min system, direct interactions between FtsZ, FtsA and the lipid bilayer, and targeting and degradation of antitoxins and cell division proteins by the AAA+ proteases ClpXP and Lon.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
@@ -211,7 +233,7 @@
             }
           },
           "title3": "Amyloids and Aggregates:<br>Remodeling and Clearance",
-          "subtitle3": "Protein homeostasis in <br>differentiated neurons, yeast and bacteria",
+          "subtitle3": "<span style=\"font-style: normal;\">Protein homeostasis in <br>differentiated neurons, yeast and bacteria</span>",
           "caption3": "<b style=\"font-size: 1rem; line-height: 1.5;\">Chaperones and proteolysis</b><br><br>Molecular chaperone proteins maintain intracellular protein homeostasis in all living organisms. When these homeostatic mechanisms are disrupted, cells are less able to cope with environmental stress and maintain normal physiology and function. We study how proteins misfold and aggregate and how molecular chaperones promote reactivation from aggregates and partner with proteases for degradation in vivo and in vitro. <br>~~~~~<br>Protein homeostasis in bacteria, yeast &amp; differentiated neurons.<br>Key cellular events under investigation in multiple organisms that are proteolytically regulated include cell division,  dormancy, inheritance and clearance of amyloids and other aggregates.<br><br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
@@ -257,6 +279,9 @@
           "_styles": {
             "P": {
               "text-align": "center"
+            },
+            "SPAN": {
+              "color": "#092d54"
             }
           }
         },
