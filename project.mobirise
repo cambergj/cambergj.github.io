@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "name": "Lab 2022",
     "theme": {
       "name": "mobirise3",
@@ -27,17 +27,17 @@
       ]
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 79,
+    "uniqCompNum": 80,
     "versionPublish": "4.9.1",
     "path": "@PROJECT_PATH@",
-    "favicon": "@PROJECT_PATH@/assets/images/paired-filament-128x99.png",
+    "favicon": "@PROJECT_PATH@/assets/images/z-ring3-600x450-128x96.png",
     "noImageResize": "",
     "google-analytics": "",
     "screenshot": "screenshot.png",
     "siteFonts": [],
     "imageResize": true,
     "publishChangesOnly": false,
-    "mbrsiteDomain": "gyqft0pqxk",
+    "mbrsiteDomain": "sga9dbrc8a",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -132,7 +132,7 @@
             "paddingTop": 0,
             "paddingBottom": 0,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -193,7 +193,7 @@
             "paddingBottom": 2,
             "columns": "3",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -309,7 +309,7 @@
             "paddingTop": 0,
             "paddingBottom": 0,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -453,7 +453,7 @@
             "paddingTop": 0,
             "paddingBottom": 0,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -506,7 +506,7 @@
             "paddingTop": 0,
             "paddingBottom": 0,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -617,7 +617,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#2e2e2e",
@@ -642,7 +642,7 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#323232",
@@ -658,7 +658,7 @@
       "settings": {
         "meta_descr": "People",
         "title": "People",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -667,7 +667,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><b>People</b></blockquote>",
+          "text": "<blockquote><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b>People</b></p><p><b><br></b></p><p><b><br></b></p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -687,7 +687,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>Jodi Camberg, Ph.D.\n</b></p><p>Associate Professor\n</p><p><span style=\"font-size: 1.07rem;\">Department of Cell and Molecular Biology</span><br></p><p>\n</p><p><br></p><p><b>Cathy Trebino</b> - Research Assistant II\n</p><p>\n</p><p><br></p><p><b>Josiah Morrison</b> - Graduate Student\n</p><p>\n</p><p><br></p><p><b>Colby Ferreira</b> - Graduate Student\n</p><p>\n</p><p><br></p><p><b>Ben Piraino</b> - Graduate Student\n</p><p>\n</p><p><br></p><p><b>Dan Banas</b> - Graduate Student</p><p><br></p><p>\n</p><p>\n</p><p><b>Kathleen Tran, Ph.D.</b> - Postdoctoral Research Fellow\n</p><p><br></p>",
+          "text": "<p><b>Jodi Camberg, Ph.D.\n</b></p><p>Associate Professor\n</p><p><span style=\"font-size: 1.07rem;\">Department of Cell and Molecular Biology</span><br></p><p>\n</p><p><br></p><p><b>Cathy Trebino</b> - Research Assistant II\n</p><p>\n</p><p><br></p><p><b>Josiah Morrison</b> - Graduate Student\n</p><p>\n</p><p><br></p><p><b>Colby Ferreira</b> - Graduate Student\n</p><p>\n</p><p><br></p><p><b>Ben Piraino</b> - Graduate Student\n</p><p>\n</p><p><br></p><p><b>Dan Banas</b> - Graduate Student</p><p><br></p><p>\n</p><p>\n</p><p><b>Kathleen Tran, Ph.D.</b> - Postdoctoral Research Fellow\n</p><p><br></p><p><br></p><p><br></p><p><i>Lab Alumni\n</i></p><p>Marissa G. Viola, Ph.D.\n</p><p>Joseph Conti, Ph.D.\n</p><p>Shannon May, Ph.D.\n</p><p>Chris LaBreck, Ph.D.\n</p><p>Eric DiBiasio, Ph.D.\n</p><p>Negar Rahmani, M.S.</p><p>\n</p><p>Victor Hunt</p><p>Evelyn Siler</p><p><br></p><p><br></p><p><br></p><p><b>Undergrads - We support research opportunities for undergraduate students! Here are the fantastic URI undergrads and research fellows who are currently or have been through the Camberg lab!\r</b></p><p><b>\r</b></p><p><b><br></b></p><p><b>\r</b></p><p><br></p><p>Andrea Duarte\r</p><p>Ashley Tai\r</p><p>Ben Moore\r</p><p>Rebecca Dickinson\r</p><p>Katie Nelson\r</p><p>Loran Gliford\r</p><p>Kelly Rothenberger\r</p><p>Ben Piraino\r</p><p>Ashley Rigano\r</p><p>Connie Nino\r</p><p>Samina Akbar\r</p><p>Colby Ferreira\r</p><p>Kate Kellenberger\r</p><p>Can Yavas\r</p><p>Melanie Keane\r</p><p>Arianna Jarocki\r</p><p>Bill Law\r</p><p>Erin Pelton\r</p><p>Matt Baptista\r</p><p>Anthony Velasquez\r</p><p>Marissa SanAntonio\r</p><p>Matt Tinkham\r</p><p>Chris O'Brien\r</p><p>Ryann Murphy\r</p><p>Gabriella Johnson\r</p><p><br></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -699,6 +699,44 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             }
           }
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "meta_descr": "Web Builder Description",
+        "title": "News",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "Camberg Lab News",
+          "text": "<br><b>2022\n</b><br><b>New publications are out!\n</b><br>FtsA-FtsZ complexes in JBC\n<br>FtsZ IDR and recognition by ClpXP in Protein Science\n<br>MqsA degradation in JBC\n<br><br>\n<br>Josiah is giving a talk as ASBMB!\n<br>\n<br>2021\n<br>Negar defended her Master's thesis - congratulations!\n<br>\n<br>2020\n<br>Stay safe everyone! \n<br>Congratulations to Dr. Eric for defending his dissertation!\n<br>\n<br>2019\n<br>The Annual Kentucky Derby Party - don't miss this one!\n<br>Getting ready for BBM and Phages this summer!\n<br>Always recruiting grad students!\n<br>\n<br>2018\n<br>Congratulations to 3 new Ph.D.'s - Joe, Shannon and Chris!\n<br>Welcome new graduate students to the lab, Evelyn, Josiah and Negar&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WINDOWS</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-27"
         }
       ]
     }
