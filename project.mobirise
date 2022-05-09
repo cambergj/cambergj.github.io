@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "name": "Lab 2022",
     "theme": {
       "name": "mobirise3",
@@ -541,7 +541,7 @@
           },
           "title": "Camberg Lab<br>@ URI",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Members only.html\" data-toolbar=\"-mbrBtnMove\">Lab Members</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"people.html\" data-toolbar=\"-mbrBtnMove\">Lab Members</a>"
         },
         {
           "_tags": [
@@ -702,7 +702,7 @@
         }
       ]
     },
-    "page2.html": {
+    "news.html": {
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "News",
