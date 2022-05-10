@@ -433,6 +433,9 @@ h6,
 #header3-1y .mbr-section-subtitle SPAN {
   font-family: 'Noto Sans', sans-serif;
 }
+#header3-1y .mbr-section-title P {
+  font-size: 36px;
+}
 #msg-box5-1v H3 {
   font-size: 24px;
   color: #092d54;
@@ -532,10 +535,24 @@ h6,
 }
 
 
+#msg-box8-29 .mbr-section-title,
+#msg-box8-29 p {
+  color: #fff;
+}
 #content2-24 B {
   font-size: 36px;
   font-family: 'Roboto', sans-serif;
 }
+#content2-24 P {
+  font-size: 36px;
+}
 #content1-26 P {
   font-family: 'Roboto', sans-serif;
+}
+#features7-28 .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-28 .iconbox {
+  background-color: #3d8eb9;
+  border-color: #3d8eb9;
 }
