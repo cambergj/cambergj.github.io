@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "people.html",
+    "currentPage": "index.html",
     "name": "Lab 2022",
     "theme": {
       "name": "mobirise3",
@@ -105,10 +105,10 @@
           "_name": "header3",
           "_anchor": "header3-1y",
           "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
+            "showMeta": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#efefef"
           },
           "title": "<p>Camberg </p><p>Lab @ URI</p>",
           "meta": "&nbsp; &nbsp;"
