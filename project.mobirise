@@ -82,7 +82,8 @@
               "text-align": "center"
             },
             ".mbr-section-subtitle": {
-              "color": "#475577"
+              "color": "#475577",
+              "font-size": "9px"
             },
             ".mbr-section-title": {
               "color": "#092d54"
@@ -92,7 +93,10 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700"
             },
             ".mbr-section-title P": {
-              "font-size": "36px"
+              "font-size": "46px"
+            },
+            ".mbr-section-subtitle P": {
+              "text-align": "left"
             }
           },
           "_tags": [
@@ -107,70 +111,7 @@
             "bgColor": "#fff"
           },
           "title": "<p>Camberg </p><p>Lab @ URI</p>",
-          "meta": "<p><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><span style=\"font-style: normal;\"><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Microbial Cell Physiology &amp; Mechanics</b></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-style: normal;\"><b><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Protein Machines&nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Amyloids, Aggregates &amp; Protein Homeostasis</b><br></span><br><br><br></p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "font-size": "24px",
-              "color": "#092d54"
-            },
-            "P": {
-              "font-size": "14px",
-              "font-family": "'Noto Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700"
-            }
-          },
-          "_anchor": "msg-box5-1v",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "imageSize": "33",
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/paired-filament-563x434.png",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Coassembly of FtsA and FtsZ polymers",
-          "text": "&nbsp; &nbsp;&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://www.jbc.org/article/S0021-9258(22)00103-X/fulltext\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Out now in JBC!<br></a>"
+          "meta": "&nbsp; &nbsp;"
         },
         {
           "_tags": [
@@ -182,7 +123,7 @@
               "text-align": "center"
             },
             "SPAN": {
-              "color": "#092d54"
+              "color": "#222222"
             }
           },
           "_anchor": "features3-f",
@@ -220,11 +161,26 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "Microbial Cell Physiology",
+          "title1": "Microbial Cell Physiology and Mechanics",
           "subtitle1": "<span style=\"font-style: normal;\">Cell Division &amp; Developmental Growth Programs</span>",
-          "caption1": "<b style=\"font-size: 1rem; line-height: 1.5;\">Understanding the Molecular Mechanism of Cell Division</b><br><br>&nbsp;The highly conserved bacterial cell division protein FtsZ polymerizes to form a dynamic protein structure called the “Z-ring” at midcell. At the Z-ring, the center of an <i>E. coli </i>cell \"constricts\" to divide into two identical daughter cells and FtsZ has been widely suggested to provide the force for constriction. Using in vivo and in vitro assays, we investigate proteins that recruit, stabilize and destabilize the Z-ring, as well as systems responsible for precise timing and placement of the Z-ring in vivo. The actin-like ATPase FtsA polymerizes, coassembling with FtsZ polymers, and together they form they nascent Z-ring at the site of division. We are developing methods to determine how FtsA-FtsZ complexes contribute to initation of cell wall synthesis during division.<br><br><b>Quiescence in Bacteria is Regulated by Peptidoglycan Cues</b><br><br>Uropathogenic <i>E. coli</i>&nbsp;is responsible for the majority of urinary tract infections. We investigate how this organism enters a QUIESCENT, non-proliferative and <u>antibiotic-tolerant state</u>, which may allow it to evade killing by antibiotics or the immune system during infection. Our work is focused on understanding how external signals, including peptidoglycan, stimulate proliferation of <i>E. coli </i>from the quiescent state.<br><br>",
+          "caption1": "<b style=\"font-size: 1rem; line-height: 1.5;\">Understanding the Molecular Mechanism of Cell Division</b><br><br>&nbsp;FtsZ is a highly conserved bacterial cell division protein that is a structural homolog of tubulin and polymerizes to form a dynamic protein structure called the “Z-ring” at midcell. At the Z-ring, the center of an <i>E. coli </i>cell \"constricts\" to divide into two identical progency cells and FtsZ is essential for this process. Using in vivo and in vitro assays, we investigate proteins that recruit, stabilize and destabilize the Z-ring, as well as systems responsible for precise timing and placement of the Z-ring in vivo. The actin-like ATPase FtsA polymerizes, coassembles with FtsZ polymers, and together they form they nascent Z-ring at the site of division. We are developing methods to monitor FtsA-FtsZ complexes and determine how these complexes contribute to initation of cell wall synthesis during division.<br><br><b>Quiescence in Bacteria is Regulated by Peptidoglycan Cues</b><br><br>Uropathogenic <i>E. coli</i>&nbsp;is responsible for the majority of urinary tract infections. We investigate how this organism enters a QUIESCENT, non-proliferative and <u>antibiotic-tolerant state</u>, which may allow it to evade killing by antibiotics or the immune system during infection. Our work is focused on understanding how external cues, including peptidoglycan fragments, stimulate proliferation of <i>E. coli </i>from the quiescent state.&nbsp;<br><br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/both-yeast-and-nb-cells-600x262.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "title2": "<br><br><br>Amyloids, Aggregates and Protein Homeostasis<br>",
+          "subtitle2": "<span style=\"font-style: normal;\">Protein homeostasis in&nbsp;</span><div><span style=\"font-style: normal;\">differentiated neurons, yeast and bacteria<br></span><br></div>",
+          "caption2": "<b>Chaperone-mediated remodeling and proteolysis</b><br><br>Molecular chaperone proteins maintain intracellular protein homeostasis in all living organisms. When these homeostatic mechanisms are disrupted, cells are less able to cope with environmental stress and maintain normal physiology and function. We study how proteins misfold and aggregate, and how molecular chaperones promote reactivation from aggregates and amyloids and partner with proteases for degradation in vivo and in vitro. <br>~~~~~<br>Protein homeostasis in bacteria, yeast &amp; differentiated neurons:<br>Key cellular events under investigation in multiple organisms that are proteolytically regulated include cell division, toxin-antitoxin systems, dormancy, prion inheritance and clearance of amyloids and other aggregates.<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/ftsz-clpxp-image2-copy-600x450.jpg",
               "class": "card-img-top",
@@ -232,29 +188,12 @@
               "active": true,
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
-          "title2": "Molecular Machines",
-          "subtitle2": "<span style=\"font-style: normal;\">Performing mechanical work at the angstrom scale</span><br>",
-          "caption2": "<b>Reconstituting cell machinery</b><br><br>Molecular pathways are often highly complex with specific mechanisms being governed by multiple protein-protein interactions and protein-lipid interactions, and further regulated by enzymatic activities such as ATP or GTP hydrolysis. We take a reductionist approach and sequentially investigate each biochemical event in vitro. With an ever-expanding library of purified proteins and lipids we employ a combination of classical biochemical, biophysical and high resolution microscopic techniques to investigate specific molecular events. Recently, we have been investigating the polar oscillation of the Min system, direct interactions between FtsZ, FtsA and the lipid bilayer, and targeting and degradation of antitoxins, including MqsA, and cell division proteins by the AAA+ proteases ClpXP and Lon.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/neuron-600x450.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title3": "Amyloids and Aggregates:<br>Remodeling and Clearance",
-          "subtitle3": "<span style=\"font-style: normal;\">Protein homeostasis in <br>differentiated neurons, yeast and bacteria</span>",
-          "caption3": "<b style=\"font-size: 1rem; line-height: 1.5;\">Chaperones and proteolysis</b><br><br>Molecular chaperone proteins maintain intracellular protein homeostasis in all living organisms. When these homeostatic mechanisms are disrupted, cells are less able to cope with environmental stress and maintain normal physiology and function. We study how proteins misfold and aggregate, and how molecular chaperones promote reactivation from aggregates and partner with proteases for degradation in vivo and in vitro. <br>~~~~~<br>Protein homeostasis in bacteria, yeast &amp; differentiated neurons.<br>Key cellular events under investigation in multiple organisms that are proteolytically regulated include cell division,  dormancy, inheritance and clearance of amyloids and other aggregates.<br><br>",
+          "title3": "ATP-dependent Protein Machines<br>",
+          "subtitle3": "<span style=\"font-style: normal;\">Performing mechanical work at the angstrom scale</span>",
+          "caption3": "<br><span style=\"font-size: 1rem; line-height: 1.5;\"><b>Reconstituting cell machinery<br></b></span><br>Molecular pathways are often highly complex with specific mechanisms being governed by multiple protein-protein interactions and protein-lipid interactions, and further regulated by enzymatic activities such as ATP or GTP hydrolysis. We take a reductionist approach to investigate each biochemical event in vitro. With an ever-expanding library of purified proteins and lipids we employ a combination of classical biochemical, biophysical and high resolution microscopic techniques to investigate specific molecular events. Recently, we have been investigating the polar oscillation of the Min system, direct interactions between FtsZ, FtsA and the lipid bilayer, and targeting and degradation of antitoxins, including MqsA, and cell division proteins by the AAA+ proteases ClpXP and Lon.<br><br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
@@ -577,8 +516,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><b style=\"font-size: 1.07rem;\">Bacterial Growth Mechanisms: Division, Regulation, Quiescence</b><br></p><p><br></p><p>DiBiasio EC, Ranson HJ, Johnson JR, Rowley DC, Cohen PS, Camberg JL. Peptidoglycan Sensing Prevents Quiescence and Promotes Quorum-Independent Colony Growth of Uropathogenic Escherichia coli. J Bacteriol. 2020 Sep 23;202(20):e00157-20.</p><p><br></p><p>LaBreck CJ, Conti J, Viola MG, Camberg JL. MinC N- and C-Domain interactions modulate FtsZ assembly, division site selection and MinD-dependent oscillation in Escherichia coli. J Bacteriology. 2019 Jan 28; 201(4).</p><p><br></p><p>Conti J, Viola MG, Camberg JL. FtsA reshapes membrane architecture and remodels the Z-ring in Escherichia coli. Molecular Microbiology. 2018 Feb; 107(4):558-576.&nbsp;</p><p><br></p><p>Eswara PJ, Brzozowski RS, Viola MG, Graham G, Spanoudis C, Trebino C, Jha J, Aubee JI, Thompson KM, Camberg JL, Ramamurthi KS. An essential Staphylococcus aureus cell division protein directly regulates FtsZ dynamics. Elife. 2018 Oct 2;7. pii: e38856. doi: 10.7554/eLife.38856.</p><p><br></p><p>Viola MG, LaBreck CJ, Conti J, Camberg JL. Proteolysis-dependent remodeling of the tubulin homolog FtsZ at the division septum in Escherichia coli. PLOS One. 2017 Jan 23; 12(1):e0170505.</p><p><br></p><p>Rule CS, Patrick M, Camberg JL, Maricic N, Hol WH, Sandkvist M. Zinc coordination is essential for the function and activity of the type II secretion ATPase EpsE. MicrobiologyOpen. 2016; 10.1002/mbo3.376.</p><p><br></p><p>Leatham-Jensen MP, Mokszycki ME, Rowley DC, Deering R, Camberg JL, Sokurenko EV, Tchesnokova VL, Fridmodt-Møller J, Krogfelt KA, Nielsen KL, Fridmont-Møller N, Sun G, Cohen PS. Uropathogenic Escherichia coli metabolite-dependent quiescence and persistence may explain antibiotic tolerance during urinary tract infection. mSphere. 2016; 1(1):e00055-15.&nbsp;</p><p><br></p><p>Conti J, Viola MG, Camberg JL. The bacterial cell division regulators MinD and MinC form polymers in the presence of nucleotide. FEBS Letters. 2015; 589(2): 201-206.&nbsp;</p><p><br></p><p>Camberg JL, Viola MG, Rea L, Hoskins JR, Wickner S. Location of dual sites in FtsZ important for degradation by ClpXP; one at the C-terminus and one in the disordered linker. PLOS One. 2014; 9(4): e94964.&nbsp;</p><p><br></p><p>Camberg JL, Wickner S. Regulated proteolysis as a force to control the cell cycle. Structure. 2012; 20(7): 1128-30.</p><p><br></p><p>Camberg JL, Hoskins JR, Wickner S. The interplay of ClpXP with the cell division machinery in Escherichia coli. J Bacteriol. 2011; 193(8): 1911-18. Highlighted in Microbe magazine (ASM Press), May 2011: “Backup Systems Keep Bacteria Dividing and Multiplying when Critical Parts Malfunction”</p><p><br></p><p>Camberg JL, Hoskins JR, Wickner S. ClpXP protease degrades the cytoskeletal protein, FtsZ, and modulates FtsZ polymer dynamics. Proc. Natl. Acad. Sci. USA. 2009; 106(26): 10614-9.&nbsp;</p><p><br></p><p>Camberg JL, Johnson TL, Patrick M, Abendroth J, Hol WGJ, Sandkvist M. Synergistic stimulation of EpsE ATP hydrolysis by EpsL and acidic phospholipids. EMBO J. 2007; 26(1): 19-27.&nbsp;</p><p><br></p><p>Camberg JL, Sandkvist M. Molecular analysis of the Vibrio cholerae type II secretion ATPase EpsE. J Bacteriol. 2005 Jan; 187(1): 249-56.</p>",
-          "text2": "<b>Protein Chaperones, Misfolding and Homeostasis</b><div><br></div><div>LaBreck CJ, May S, Viola M, Conti J, Camberg JL. The ATP-dependent chaperone ClpX targets native and non-native aggregated substrates for remodeling, disassembly, reactivation and degradation. Frontiers in Molecular Biosciences. 2017 May 4;4:26.</div><div><br></div><div>Schrader JM, Irving CM, Octeau JC, Christian JA, Aballo TJ, Kareemo DJ, Conti J, Camberg JL, Lane JR, Javitch JA, Kovoor A. The differential actions of clozapine and other antipsychotic drugs on the translocation of dopamine D2 receptors to the cell surface. J Biol Chem. 2019 Apr 5; 294(14):5604-5615.</div><div><br></div><div>Bockus AB, LaBreck CJ, Camberg JL, Collie JS, Seibel BA. Thermal range and physiological tolerance mechanisms in two shark species from the Northwest Atlantic. Biol Bull. 2020 Apr; 238(2):131-144.</div><div><br></div><div>Paquin KL, Mamrak NE, Garzon JL, Cantres-Velez JA, Azzinaro PA, Vuono EA, Lima KE, Camberg JL, Howlett NG. FANCD2 Binding to H4K20me2 via a Methyl-Binding Domain Is Essential for Efficient DNA Cross-Link Repair. Mol Cell Biol. 2019 Jul 16;39(15):e00194-19.</div><div><br></div><div>Genest O, Reidy M, Street TO, Hoskins JR, Camberg JL, Agard D, Masison D, Wickner S. Uncovering a region of heat shock protein 90 important for client binding in E. coli and chaperone function in yeast. Molecular Cell. 2013; 49(3): 464-473.</div><div><br></div><div>Genest OP, Hoskins JR, Camberg JL, Doyle SM, Wickner S. Heat shock protein 90 from Escherichia coli collaborates with the DnaK chaperone system in protein remodeling. Proc. Natl. Acad. Sci. USA. 2011; 108(20): 8206-11.&nbsp;</div>"
+          "text1": "<p><b style=\"font-size: 1.07rem;\">Bacterial Growth Mechanisms: Division, Regulation, Quiescence</b><br></p><p><br></p><p><i><b>Manuscripts:</b></i></p><p>LaBreck CJ, Trebino CE, Ferreira CN, Morrison JJ, DiBiasio EC, Conti J, Camberg JL. Disassembly and degradation of MinD oscillator complexes by Escherichia coli ClpXP. J. Biol. Chem. 2021 Jan-Jun; 296:100162.&nbsp;</p><p><br></p><p>DiBiasio EC, Ranson HJ, Johnson JR, Rowley DC, Cohen PS, Camberg JL. Peptidoglycan Sensing Prevents Quiescence and Promotes Quorum-Independent Colony Growth of Uropathogenic Escherichia coli. J Bacteriol. 2020 Sep 23;202(20):e00157-20.</p><p><br></p><p>LaBreck CJ, Conti J, Viola MG, Camberg JL. MinC N- and C-Domain interactions modulate FtsZ assembly, division site selection and MinD-dependent oscillation in Escherichia coli. J Bacteriology. 2019 Jan 28; 201(4).</p><p><br></p><p>Conti J, Viola MG, Camberg JL. FtsA reshapes membrane architecture and remodels the Z-ring in Escherichia coli. Molecular Microbiology. 2018 Feb; 107(4):558-576.&nbsp;</p><p><br></p><p>Eswara PJ, Brzozowski RS, Viola MG, Graham G, Spanoudis C, Trebino C, Jha J, Aubee JI, Thompson KM, Camberg JL, Ramamurthi KS. An essential Staphylococcus aureus cell division protein directly regulates FtsZ dynamics. Elife. 2018 Oct 2;7. pii: e38856. doi: 10.7554/eLife.38856.</p><p><br></p><p>Viola MG, LaBreck CJ, Conti J, Camberg JL. Proteolysis-dependent remodeling of the tubulin homolog FtsZ at the division septum in Escherichia coli. PLOS One. 2017 Jan 23; 12(1):e0170505.</p><p><br></p><p>Rule CS, Patrick M, Camberg JL, Maricic N, Hol WH, Sandkvist M. Zinc coordination is essential for the function and activity of the type II secretion ATPase EpsE. MicrobiologyOpen. 2016; 10.1002/mbo3.376.</p><p><br></p><p>Leatham-Jensen MP, Mokszycki ME, Rowley DC, Deering R, Camberg JL, Sokurenko EV, Tchesnokova VL, Fridmodt-Møller J, Krogfelt KA, Nielsen KL, Fridmont-Møller N, Sun G, Cohen PS. Uropathogenic Escherichia coli metabolite-dependent quiescence and persistence may explain antibiotic tolerance during urinary tract infection. mSphere. 2016; 1(1):e00055-15.&nbsp;</p><p><br></p><p>Conti J, Viola MG, Camberg JL. The bacterial cell division regulators MinD and MinC form polymers in the presence of nucleotide. FEBS Letters. 2015; 589(2): 201-206.&nbsp;</p><p><br></p><p>Camberg JL, Viola MG, Rea L, Hoskins JR, Wickner S. Location of dual sites in FtsZ important for degradation by ClpXP; one at the C-terminus and one in the disordered linker. PLOS One. 2014; 9(4): e94964.&nbsp;</p><p><br></p><p>Camberg JL, Wickner S. Regulated proteolysis as a force to control the cell cycle. Structure. 2012; 20(7): 1128-30.</p><p><br></p><p>Camberg JL, Hoskins JR, Wickner S. The interplay of ClpXP with the cell division machinery in Escherichia coli. J Bacteriol. 2011; 193(8): 1911-18. Highlighted in Microbe magazine (ASM Press), May 2011: “Backup Systems Keep Bacteria Dividing and Multiplying when Critical Parts Malfunction”</p><p><br></p><p>Camberg JL, Hoskins JR, Wickner S. ClpXP protease degrades the cytoskeletal protein, FtsZ, and modulates FtsZ polymer dynamics. Proc. Natl. Acad. Sci. USA. 2009; 106(26): 10614-9.&nbsp;</p><p><br></p><p>Camberg JL, Johnson TL, Patrick M, Abendroth J, Hol WGJ, Sandkvist M. Synergistic stimulation of EpsE ATP hydrolysis by EpsL and acidic phospholipids. EMBO J. 2007; 26(1): 19-27.&nbsp;</p><p><br></p><p>Camberg JL, Sandkvist M. Molecular analysis of the Vibrio cholerae type II secretion ATPase EpsE. J Bacteriol. 2005 Jan; 187(1): 249-56.</p>",
+          "text2": "<b>Protein Chaperones, Misfolding and Homeostasis</b><div><br></div><div><b><i>Book Chapters:</i></b></div><div>Eid A, May S, Zawia N, Camberg JL. (2019) Approaches for studying amyloid formation in vitro. In J. Harry and E. Castiglioni (Ed.), Neurotoxicology:  Mechanisms and Predictive Modeling with In Vitro and In Vivo Approaches. Springer.\n</div><div><br></div><div>Camberg JL, Doyle SM, Johnston DM, Wickner S. (2013) Molecular Chaperones. In S. Maloy and K. Hughes (Ed.), Brenner’s Encyclopedia of Genetics (2nd ed, pp. 456-460). Elsevier.\n</div><div>\n</div><div><br></div><div><b><i>Manuscripts:</i></b></div><div><span style=\"font-size: 1.07rem;\">DaSilva NA, Barlock BJ, Guha P, Ghosh CC, Trebino CE, Camberg JL, Katz SC, Rowley DC. Proteomic signatures of myeloid derived suppressor cells from liver and lung metastases reveal functional divergence and potential therapeutic targets. Cell Death Discov. 2021 Sep 4; 7(1):232.</span><br></div><div><br></div><div>Schrader JM, Irving CM, Octeau JC, Christian JA, Aballo TJ, Kareemo DJ, Conti J, Camberg JL, Lane JR, Javitch JA, Kovoor A. The differential actions of clozapine and other antipsychotic drugs on the translocation of dopamine D2 receptors to the cell surface. J Biol Chem. 2019 Apr 5; 294(14):5604-5615.</div><div><br></div><div>LaBreck CJ, May S, Viola M, Conti J, Camberg JL. The ATP-dependent chaperone ClpX targets native and non-native aggregated substrates for remodeling, disassembly, reactivation and degradation. Frontiers in Molecular Biosciences. 2017 May 4;4:26.</div><div><br></div><div>Bockus AB, LaBreck CJ, Camberg JL, Collie JS, Seibel BA. Thermal range and physiological tolerance mechanisms in two shark species from the Northwest Atlantic. Biol Bull. 2020 Apr; 238(2):131-144.</div><div><br></div><div>Paquin KL, Mamrak NE, Garzon JL, Cantres-Velez JA, Azzinaro PA, Vuono EA, Lima KE, Camberg JL, Howlett NG. FANCD2 Binding to H4K20me2 via a Methyl-Binding Domain Is Essential for Efficient DNA Cross-Link Repair. Mol Cell Biol. 2019 Jul 16;39(15):e00194-19.</div><div><br></div><div>Genest O, Reidy M, Street TO, Hoskins JR, Camberg JL, Agard D, Masison D, Wickner S. Uncovering a region of heat shock protein 90 important for client binding in E. coli and chaperone function in yeast. Molecular Cell. 2013; 49(3): 464-473.</div><div><br></div><div>Genest OP, Hoskins JR, Camberg JL, Doyle SM, Wickner S. Heat shock protein 90 from Escherichia coli collaborates with the DnaK chaperone system in protein remodeling. Proc. Natl. Acad. Sci. USA. 2011; 108(20): 8206-11.&nbsp;</div>"
         },
         {
           "_styles": {

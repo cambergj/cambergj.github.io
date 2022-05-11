@@ -8,7 +8,6 @@
 
 
 
-
 body,
 input,
 textarea,
@@ -426,6 +425,7 @@ h6,
 }
 #header3-1y .mbr-section-subtitle {
   color: #475577;
+  font-size: 9px;
 }
 #header3-1y .mbr-section-title {
   color: #092d54;
@@ -434,21 +434,16 @@ h6,
   font-family: 'Noto Sans', sans-serif;
 }
 #header3-1y .mbr-section-title P {
-  font-size: 36px;
+  font-size: 46px;
 }
-#msg-box5-1v H3 {
-  font-size: 24px;
-  color: #092d54;
-}
-#msg-box5-1v P {
-  font-size: 14px;
-  font-family: 'Noto Sans', sans-serif;
+#header3-1y .mbr-section-subtitle P {
+  text-align: left;
 }
 #features3-f P {
   text-align: center;
 }
 #features3-f SPAN {
-  color: #092d54;
+  color: #222222;
 }
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
