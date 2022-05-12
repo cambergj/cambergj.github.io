@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "news.html",
+    "currentPage": "index.html",
     "name": "Lab 2022",
     "theme": {
       "name": "mobirise3",
@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 82,
+    "uniqCompNum": 85,
     "versionPublish": "4.9.1",
     "path": "@PROJECT_PATH@",
     "favicon": "@PROJECT_PATH@/assets/images/z-ring3-600x450-128x96.png",
@@ -163,7 +163,7 @@
           },
           "title1": "Microbial Cell Physiology and Mechanics",
           "subtitle1": "<span style=\"font-style: normal;\">Cell Division &amp; Developmental Growth Programs</span>",
-          "caption1": "<b style=\"font-size: 1rem; line-height: 1.5;\">Understanding the Molecular Mechanism of Cell Division</b><br><br>&nbsp;FtsZ is a highly conserved bacterial cell division protein that is a structural homolog of tubulin and polymerizes to form a dynamic protein structure called the “Z-ring” at midcell. At the Z-ring, the center of an <i>E. coli </i>cell \"constricts\" to divide into two identical progency cells and FtsZ is essential for this process. Using in vivo and in vitro assays, we investigate proteins that recruit, stabilize and destabilize the Z-ring, as well as systems responsible for precise timing and placement of the Z-ring in vivo. The actin-like ATPase FtsA polymerizes, coassembles with FtsZ polymers, and together they form they nascent Z-ring at the site of division. We are developing methods to monitor FtsA-FtsZ complexes and determine how these complexes contribute to initation of cell wall synthesis during division.<br><br><b>Quiescence in Bacteria is Regulated by Peptidoglycan Cues</b><br><br>Uropathogenic <i>E. coli</i>&nbsp;is responsible for the majority of urinary tract infections. We investigate how this organism enters a QUIESCENT, non-proliferative and <u>antibiotic-tolerant state</u>, which may allow it to evade killing by antibiotics or the immune system during infection. Our work is focused on understanding how external cues, including peptidoglycan fragments, stimulate proliferation of <i>E. coli </i>from the quiescent state.&nbsp;<br><br>",
+          "caption1": "<b style=\"font-size: 1rem; line-height: 1.5;\">Understanding the Molecular Mechanism of Cell Division</b><br><br>&nbsp;FtsZ is a highly conserved bacterial cell division protein that is a structural homolog of tubulin and polymerizes to form a dynamic protein structure called the “Z-ring” at midcell. At the Z-ring, the center of an <i>E. coli </i>cell \"constricts\" to divide into two identical progeny cells and FtsZ is essential for this process. Using in vivo and in vitro assays, we investigate proteins that recruit, stabilize and destabilize the Z-ring, as well as systems responsible for precise timing and placement of the Z-ring in vivo. The actin-like ATPase FtsA polymerizes, coassembles with FtsZ polymers, and together they form they nascent Z-ring at the site of division. We are developing methods to monitor FtsA-FtsZ complexes and determine how these complexes contribute to initation of cell wall synthesis during division.<br><br><b>Quiescence in Bacteria is Regulated by Peptidoglycan Cues</b><br><br>Uropathogenic <i>E. coli</i>&nbsp;is responsible for the majority of urinary tract infections. We investigate how this organism enters a QUIESCENT, non-proliferative and <u>antibiotic-tolerant state</u>, which may allow it to evade killing by antibiotics or the immune system during infection. Our work is focused on understanding how external cues, including peptidoglycan fragments, stimulate proliferation of <i>E. coli </i>from the quiescent state.&nbsp;<br><br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
@@ -484,6 +484,33 @@
           "title": "Camberg Lab<br>@ URI",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"people.html\" data-toolbar=\"-mbrBtnMove\">Lab Members</a>"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/paired-filament-banner-1400x464.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-2c"
         },
         {
           "_tags": [
@@ -849,6 +876,94 @@
           ],
           "_name": "header1",
           "_anchor": "header1-27"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://web.uri.edu/cmb/jodi-l-camberg/\" target=\"_blank\">Link to URI Faculty Web Page</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"people.html\" target=\"_blank\">LAB MEMBERS</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#3d8eb9!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "genius",
+              "family": "et-line",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://www.camberglab.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Camberg Lab</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-2a"
         }
       ]
     }
